@@ -1,4 +1,4 @@
-package me.parzibyte.crudsqlite.modelos;
+package com.erick.agendamiento_bicicleta.modelos;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package me.parzibyte.crudsqlite;
+package com.erick.agendamiento_bicicleta;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package me.parzibyte.crudsqlite.controllers;
+package com.erick.agendamiento_bicicleta.controllers;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -8,10 +8,10 @@ import android.database.sqlite.SQLiteDatabase;
 import java.util.ArrayList;
 import java.util.List;
 
-import me.parzibyte.crudsqlite.AyudanteBaseDeDatos;
-import me.parzibyte.crudsqlite.modelos.Citas;
-import me.parzibyte.crudsqlite.modelos.Mascota;
-import me.parzibyte.crudsqlite.modelos.User;
+import com.erick.agendamiento_bicicleta.AyudanteBaseDeDatos;
+import com.erick.agendamiento_bicicleta.modelos.Citas;
+import com.erick.agendamiento_bicicleta.modelos.Mascota;
+import com.erick.agendamiento_bicicleta.modelos.User;
 
 
 public class MascotasController {

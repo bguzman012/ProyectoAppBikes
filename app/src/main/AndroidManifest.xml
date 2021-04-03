@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="me.parzibyte.crudsqlite">
+    package="com.erick.agendamiento_bicicleta">
 
     <application
         android:allowBackup="true"
@@ -9,12 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".itemActivity"></activity>
-        <activity android:name=".content_main" />
-        <activity android:name=".AgendarCitasActivity" />
-        <activity android:name=".Registro" />
-        <activity android:name=".Register" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.erick.agendamiento_bicicleta.itemActivity"></activity>
+        <activity android:name="com.erick.agendamiento_bicicleta.content_main" />
+        <activity android:name="com.erick.agendamiento_bicicleta.AgendarCitasActivity" />
+        <activity android:name="com.erick.agendamiento_bicicleta.Registro" />
+        <activity android:name="com.erick.agendamiento_bicicleta.Register" />
+        <activity android:name="com.erick.agendamiento_bicicleta.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

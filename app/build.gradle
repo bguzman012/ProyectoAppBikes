@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "me.parzibyte.crudsqlite"
+        applicationId "com.erick.agendamiento_bicicleta"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 1

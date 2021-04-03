@@ -1,4 +1,4 @@
-package me.parzibyte.crudsqlite;
+package com.erick.agendamiento_bicicleta;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -8,8 +8,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import me.parzibyte.crudsqlite.controllers.MascotasController;
-import me.parzibyte.crudsqlite.modelos.User;
+import com.erick.agendamiento_bicicleta.controllers.MascotasController;
+import com.erick.agendamiento_bicicleta.modelos.User;
 
 public class Register extends AppCompatActivity {
 

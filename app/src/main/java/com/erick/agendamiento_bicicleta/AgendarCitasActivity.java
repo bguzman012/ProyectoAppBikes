@@ -1,6 +1,5 @@
-package me.parzibyte.crudsqlite;
+package com.erick.agendamiento_bicicleta;
 
-import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
@@ -13,9 +12,9 @@ import android.widget.Toast;
 
 import java.util.List;
 
-import me.parzibyte.crudsqlite.controllers.MascotasController;
-import me.parzibyte.crudsqlite.modelos.Citas;
-import me.parzibyte.crudsqlite.modelos.User;
+import com.erick.agendamiento_bicicleta.controllers.MascotasController;
+import com.erick.agendamiento_bicicleta.modelos.Citas;
+import com.erick.agendamiento_bicicleta.modelos.User;
 
 public class AgendarCitasActivity extends AppCompatActivity {
 
